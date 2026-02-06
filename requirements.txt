@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yfinance
+apscheduler
+pydantic
+nltk
+numpy
+pandas
