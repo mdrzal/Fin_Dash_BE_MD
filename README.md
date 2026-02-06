@@ -133,4 +133,4 @@ This backend is designed as a local analysis tool or for personal dashboards, no
 
 ### Running with the Backend
 To pair the backend with the frontend:
- - read instructions available at https://github.com/mdrzal/Fin_Dash_FE_MD
+  - Follow the frontend setup instructions in the [Fin_Dash_FE_MD frontend repository](https://github.com/mdrzal/Fin_Dash_FE_MD).
